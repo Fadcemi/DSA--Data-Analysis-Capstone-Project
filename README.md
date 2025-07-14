@@ -29,8 +29,9 @@ This involves exploring the data to answer some questions about the data such as
 - Which customer returned items and what segment do they belong.
 - If the delivery truck is the most economical but the slowestshipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
-- ### Data Analysis
+ ### Data Analysis
   This is where some basic lines of codes or queries were used during the analysis
-### Analysis
   
-  
+ ### Analysis
+   ![SQL Case scenario 1 Ans 1](https://github.com/user-attachments/assets/4ef82782-7e08-4d05-95bf-80d900a46d84)
+
