@@ -6,14 +6,14 @@ This is my Portfolio Building for the DSA-SQL Questions for Data Analysis
 
 ### Project Overview
 This Data Analysis Project aims to generate insights into the sales performance of the KMS Inventory
-using SQL Skills in solving the two case scenarios.
+using SQL Skills in solving the two case scenarios. In computing the solution, the returned orders were taken into consideration. 
 
 ### Data Source
 The Primary source of data used is the Excel file containing order data from 2009- 2012
 
 ### Tools Used
 - MS Excel for data cleaning
-- SQL Server for querying and Analysis[Download here]
+- SQL Server for querying and Analysis
   
 ### Exploratory Data Analysis (EDA)
 This involves exploring the data to answer some questions about the data such as:
@@ -30,9 +30,12 @@ This involves exploring the data to answer some questions about the data such as
 - If the delivery truck is the most economical but the slowestshipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
  ### Data Analysis
-  This is where some basic lines of codes or queries were used during the analysis.
+  This is where some basic lines of codes or queries were used during the analysis to obtain the solution to the questions. Below are the codes for each of the questions
   
+  - Product Category with highest sales
 [Product category](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Product%20category%20with%20highest%20sales.sql)
+
+
 
 [Sales in Ontario](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Product%20category%20with%20highest%20sales.sql)
   
