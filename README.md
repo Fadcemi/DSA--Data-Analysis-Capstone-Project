@@ -35,10 +35,17 @@ This involves exploring the data to answer some questions about the data such as
   - Product Category with highest sales
 [Product category](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Product%20category%20with%20highest%20sales.sql)
 
-
-
-[Sales in Ontario](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Product%20category%20with%20highest%20sales.sql)
+- Top 3 and bottom 3 regions in terms of sales [Top 3 and bottom 3](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Top%203%20%20and%20Bottom%203%20regions%20in%20sales.sql)
+- Total sales in Ontario [Sales in Ontario](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Product%20category%20with%20highest%20sales.sql)
+- Most Shipping cost [Most shipping cost](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Most%20shipping%20cost%20by%20shipping%20mode.sql)
+- Most valuable customers and products/services they purchased [Most Valuable customersand products/services purchased](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Valuable%20customer%20and%20product%20purchased.sql)
+- Small business customer with highest sales [Small business customer with highest sales](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Small%20business%20Customer.sql)
+- Corporate Customer that placed most orders in 2009-2012 [Corporate customer with most ordes](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Corporate%20customer.sql)
+- Most profitable consumer customer
   
  ### Analysis
-   [Image](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Images/Top%203%20region.jpg)
+ This is where the solutions to the sQL Querries for the various questions are shown
+ 
+ - Product category with highest sales
+[Product category](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Images/Product%20category)
 
