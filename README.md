@@ -30,25 +30,12 @@ This involves exploring the data to answer some questions about the data such as
 - If the delivery truck is the most economical but the slowestshipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer
 
  ### Data Analysis
-  This is where some basic lines of codes or queries were used during the analysis
+  This is where some basic lines of codes or queries were used during the analysis.
+  
+[Product category](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Product%20category%20with%20highest%20sales.sql)
 
-``` SQL QUERY
-SELECT 
-    k.Region,
-    SUM(
-        CASE 
-            WHEN o.Status = 'returned' THEN 0
-            ELSE CAST(k.sales AS FLOAT)
-        END
-    ) AS Total_net_sales
-FROM 
-    [KMS Sql Case Study] AS k
-LEFT JOIN 
-    Order_Status AS o 
-    ON k.Order_ID = o.Order_ID
-WHERE Region = 'Ontario'
-GROUP BY k.Region;
-```  
+[Sales in Ontario](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Product%20category%20with%20highest%20sales.sql)
+  
  ### Analysis
-   ![SQL Case scenario 1 Ans 1](https://github.com/user-attachments/assets/4ef82782-7e08-4d05-95bf-80d900a46d84)
+   [Image](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Images/Top%203%20region.jpg)
 
