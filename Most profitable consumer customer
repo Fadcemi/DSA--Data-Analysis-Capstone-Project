@@ -2,7 +2,7 @@
 
 SELECT TOP 1
     k.Customer_Segment,
-	k.Customer_Name,
+    k.Customer_Name,
     SUM(
         CASE 
             WHEN o.Status = 'returned' THEN 0
