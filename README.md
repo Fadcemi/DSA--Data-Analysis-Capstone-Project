@@ -47,5 +47,5 @@ This involves exploring the data to answer some questions about the data such as
  This is where the solutions to the sQL Querries for the various questions are shown
  
  - Product category with highest sales
-[Product category](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Images/Product%20category)
+[Product category](https://github.com/Fadcemi/DSA--Data-Analysis-Capstone-Project-1/blob/main/Images/Product%20category.jpg)
 
